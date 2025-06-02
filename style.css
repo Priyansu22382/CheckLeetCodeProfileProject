@@ -23,8 +23,8 @@ body{
     background-color: #bcdbf15a;
     padding : 20px;
     border-radius: 10px;
-    width : 45%;
-    max-width: 800px;
+    width : 40%;
+    max-width: 700px;
     box-shadow: 5px 5px 10px white, -5px -5px 10px white;
 }
 h1{
@@ -42,6 +42,7 @@ h1{
 }
 #user-input{
     width: 70%;
+    height : 30px;
     padding : 0.2rem;
     border-radius: 10px;
 }
