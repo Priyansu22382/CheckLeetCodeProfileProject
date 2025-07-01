@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Live](https://priyansu22382.github.io/CheckLeetCodeProfileProject/) *(Add your hosted link here)*
+👉 [View Live](https://priyansu22382.github.io/CheckLeetCodeProfileProject/) 
 
 ---
 
